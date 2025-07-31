@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // For Netlify static hosting
+  output: 'export',
   reactStrictMode: true,
   webpack: (config) => {
     config.resolve.alias.canvas = false;
