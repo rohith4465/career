@@ -38,7 +38,7 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "@netlify/next": "^1.4.9",
+   
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
